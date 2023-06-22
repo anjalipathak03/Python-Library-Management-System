@@ -1,4 +1,3 @@
-# Python-Library-Management-System
 # Python Library Management System
 
 This is a simple Python library management system that allows you to manage a collection of books in a library. You can add books, remove books, and search for books by title.
